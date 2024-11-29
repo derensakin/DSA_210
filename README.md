@@ -14,7 +14,7 @@ The data is collected directly from the screen time feature available on a smart
   * Daily usage duration of each application.
   * Time of day for usage (hourly breakdown).
   * Specific data for exam days versus regular days.
-  * Project Idea and Plan
+
     
 ### **Implementation and Tools:**
 The analysis and code will be written in Google Colab.
